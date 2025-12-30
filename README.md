@@ -1,6 +1,6 @@
 # 💰 Midnight Thief: Tile-Based Stealth Game
 
-**Midnight Heist** es un videojuego de sigilo y estrategia desarrollado en **Java** utilizando la librería **Processing**. El jugador asume el papel de un maestro ladrón que debe infiltrarse en una bóveda de alta seguridad, evitar a los guardias patrulleros y escapar con el botín.
+**Midnight Thief** es un videojuego de sigilo y estrategia desarrollado en **Java** utilizando la librería **Processing**. El jugador asume el papel de un maestro ladrón que debe infiltrarse en una bóveda de alta seguridad, evitar a los guardias patrulleros y escapar con el botín.
 
 ---
 
